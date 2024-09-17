@@ -25,7 +25,7 @@ Check out the live demo of Moodify: [https://moodify-aj.netlify.app](https://moo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/moodify.git
+   git clone https://github.com/ajay-cs-tech/moodify.git
    cd moodify
    ```
 
